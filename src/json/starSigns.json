@@ -1,0 +1,51 @@
+{
+	"starSigns": [{
+		"name": "aquarius",
+		"startDate": "20th of January",
+		"endDate": "18th of Fubruary"
+	}, {
+		"name": "pisces",
+		"startDate": "19th of February",
+		"endDate": "20th of March"
+	}, {
+		"name": "aries",
+		"startDate": "21st of March",
+		"endDate": "19th of April"
+	}, {
+		"name": "taurus",
+		"startDate": "20th of April",
+		"endDate": "20th of May"
+	}, {
+		"name": "gemini",
+		"startDate": "21st of May",
+		"endDate": "20th of June"
+	}, {
+		"name": "cancer",
+		"startDate": "21st of June",
+		"endDate": "22nd of July"
+	}, {
+		"name": "leo",
+		"startDate": "23rd of July",
+		"endDate": "22nd of August"
+	}, {
+		"name": "virgo",
+		"startDate": "23rd of August",
+		"endDate": "22nd of September"
+	}, {
+		"name": "libra",
+		"startDate": "23rd of September",
+		"endDate": "22nd of October"
+	}, {
+		"name": "scorpio",
+		"startDate": "23rd of October",
+		"endDate": "21st of November"
+	}, {
+		"name": "sagittarius",
+		"startDate": "22nd of November",
+		"endDate": "21st of December"
+	}, {
+		"name": "capricorn",
+		"startDate": "22nd of December",
+		"endDate": "19th of January"
+	}]
+}
